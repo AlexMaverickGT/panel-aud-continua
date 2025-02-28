@@ -5,11 +5,6 @@
   --color-fondo: #d8dadc;
 }
 
-/* .tituloActiveDirectory{
-    font-size: 15px;
-    margin-right: 180px; /*distancia entre el titulo del dashboard y los circulos*/
-/* } */
-
 .tituloActiveDirectory{
   width: 300px;
   background-color: var(--color-fondo);
