@@ -1,0 +1,73 @@
+/* ######### ESTILOS DEL CUERPO DE LA PAGINA Y ORDEN DE BOTONES ################## */
+:root{
+	--color-margen:rgb(217, 13, 57);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: white;
+	font-family: Georgia;
+	min-height: 100vh;
+
+}
+
+.contenedor {
+	width: 1000px;
+	margin: auto;
+	padding: 10px 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+h1 {
+	font-size: 25px;
+	font-weight: 800;
+	text-align: center;
+	margin-bottom: 25px; /*margen entre el titulo y los botones*/
+	text-transform: uppercase;
+	color: #141414;
+	border: 6px solid  var(--color-margen);
+	border-radius: 10px;
+	padding: 8px 30px; /* distancia entre el borde*/
+	display: inline-block;
+}
+
+.imagen1{
+	width: 250px;
+	padding: 10px;
+}
+
+.imagen2{
+	width: 200px;
+	
+}
+
+.contenedor-botones {
+	width: 100%; /* ancho de los botones*/
+	display: grid; /*para dejar los botones en columnas y filas*/
+	grid-template-columns: repeat(3, 1fr); /* filas y columnas de presentacion*/
+	gap: 20px; /*distancia entre cada boton*/
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
