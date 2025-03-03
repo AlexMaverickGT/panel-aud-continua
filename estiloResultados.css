@@ -1,0 +1,120 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root{
+    --color-fondo: #d8dadc;
+    --color-botones:rgb(51, 101, 204);
+    --color-margen:rgb(217, 13, 57);
+    --color-borde-link: rgb(51, 102, 255);
+    --color-efecto-boton: #dcdc06;
+}
+
+body{
+	background: white;
+    font-family:Georgia;
+
+}
+
+.header{
+    padding: 1% 0% 0% 2%; /*distancia del boton sobre el margen*/
+}
+
+.header_menu_links{
+
+    font-weight: 300; /* el grosor de la negrita en las letras*/
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    border: 3px solid var(--color-borde-link);
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+.header_menu_links:active{
+    color: var(--color-efecto-boton);
+}
+
+
+h1{
+    font-size: 25px;
+	font-weight: 800;
+	text-align: center;
+	margin: 25px; /*margen entre el titulo y el borde de arriba*/
+	text-transform: uppercase;
+	color: #141414;
+	border: 6px solid var(--color-margen);
+	border-radius: 10px;
+	padding: 10px; /*distancia entre el borde*/
+
+} 
+
+
+/* esto es solo para dejar todo en la misma alineacion y que al agrandar no cambie */
+.titulo-transparente{
+    width: 300px;
+    background-color: white;
+    border: 0, white;
+    margin-right: 50px;
+  }
+
+.riesgoCredito{
+    margin-left: 15px;
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
+}
+
+.riesgoFinanciero{
+    margin-left: 15px;
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
+}
+
+.riesgoOperacional{
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.riesgoTecnologico{
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* .titulosTrimestres{
+    margin-left: 28.5%;  
+} */
+
+.titulos{
+    font-size: 18px;
+    font-weight: 500;
+    background-color: var(--color-botones);
+    color: white;
+    border: 3px solid black ;
+    border-radius: 10px;
+    display:inline;
+    padding: 5px 15px;
+    margin-right: 18px;
+}
+
+.periodicidad{
+    font-size: 12px;
+    margin-left: 28px;
+    
+}
+
+.primerCirculo{
+    display: flex;
+    align-items: center;
+    padding: 15px; 
+
+}
+.circulos2{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    margin-top: -25px;
+}
+
