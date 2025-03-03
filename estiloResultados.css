@@ -50,8 +50,6 @@ h1{
 
 } 
 
-
-/* esto es solo para dejar todo en la misma alineacion y que al agrandar no cambie */
 .titulo_transparente{
     width: 300px;
     background-color: white;
@@ -82,10 +80,6 @@ h1{
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
-/* .titulosTrimestres{
-    margin-left: 28.5%;  
-} */
 
 .titulos{
     font-size: 18px;
