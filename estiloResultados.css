@@ -74,9 +74,12 @@ h1{
     margin-bottom: 10px;
 }
 
-.titulosTrimestres{
-    margin-left: 28%;  
-}
+.titulo-transparente{
+    width: 300px;
+    background-color: white;
+    border: 0, white;
+    margin-right: 50px;
+  }
 
 h2{
     font-size: 18px;
