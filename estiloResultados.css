@@ -51,7 +51,7 @@ h1{
 
 
 /* esto es solo para dejar todo en la misma alineacion y que al agrandar no cambie */
-.titulo-transparente{
+.titulo_transparente{
     width: 300px;
     background-color: white;
     border: 0, white;
