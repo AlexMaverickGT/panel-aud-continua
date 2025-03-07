@@ -26,7 +26,7 @@
 
 .circuloControlSaldoCajaAGF1{
   width: 300px;
-  background-color: var(--color-fondo);
+  background-color: var(--color-verde);
   text-align: center;
   padding: 5px ;
   border-radius: 6px;
@@ -45,11 +45,11 @@
   margin-right: 30px;
   }
 .circuloControlSaldoCajaAGF2 {
-  background-color: white;
+  background-color: var(--color-amarillo);
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  border: 3px solid var(--color-fondo);
+  /* border: 3px solid var(--color-fondo); */
   margin-right: 30px;
   }
 .circuloControlSaldoCajaAGF3 {
