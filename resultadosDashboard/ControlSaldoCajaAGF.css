@@ -23,19 +23,6 @@
   margin-right: 30px;
 }
 
-
-.circuloControlSaldoCajaAGF1{
-  width: 300px;
-  background-color: var(--color-verde);
-  text-align: center;
-  padding: 5px ;
-  border-radius: 6px;
-  font-family: Georgia;
-  font-size: 12px;
-  font-weight: 500;
-  text-decoration: none;
-}
-
 .circuloControlSaldoCajaAGF1 {
   background-color: var(--color-verde);
   width: 25px;
