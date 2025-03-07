@@ -24,7 +24,7 @@
 }
 
 .circuloOperacionesReAsignadas1 {
-    background-color: var(--color-verde);
+    background-color: var(--color-rojo);
     width: 25px;
     height: 25px;
     border-radius: 50%;
