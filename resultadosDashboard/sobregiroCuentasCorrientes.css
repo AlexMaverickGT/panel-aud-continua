@@ -20,7 +20,7 @@
 }
 
 .circuloSobregirosCuentasCorrientes1 {
-  background-color: var(--color-verde);
+  background-color: var(--color-amarillo);
   width: 25px;
   height: 25px;
   border-radius: 50%;
@@ -28,11 +28,11 @@
   margin-right: 30px;
   }
   .circuloSobregirosCuentasCorrientes2 {
-    background-color: white;
+    background-color: var(--color-rojo);
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    border: 3px solid var(--color-fondo);
+    /* border: 3px solid var(--color-fondo); */
     margin-right: 30px;
   }
   .circuloSobregirosCuentasCorrientes3 {
