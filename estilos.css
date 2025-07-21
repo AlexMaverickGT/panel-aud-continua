@@ -34,8 +34,8 @@ h1 {
 	text-transform: uppercase;
 	color: #141414;
 	border: 6px solid  var(--color-margen);
-	border-radius: 10px;
-	padding: 8px 30px; /* distancia entre el borde*/
+	border-radius: 5px;
+	padding: 10px; /* distancia entre el borde*/
 	display: inline-block;
 }
 
@@ -52,7 +52,7 @@ h1 {
 .contenedor-botones {
 	width: 100%; /* ancho de los botones*/
 	display: grid; /*para dejar los botones en columnas y filas*/
-	grid-template-columns: repeat(3, 1fr); /* filas y columnas de presentacion*/
+	grid-template-columns: repeat(4, 1fr); /* filas y columnas de presentacion*/
 	gap: 20px; /*distancia entre cada boton*/
 	text-align: center;
 }
