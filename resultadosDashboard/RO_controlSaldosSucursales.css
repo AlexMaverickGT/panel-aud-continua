@@ -1,0 +1,118 @@
+:root{
+	--color-amarillo:#d5c006;
+	--color-rojo: #cb3005;
+	--color-verde:green;
+  --color-fondo: #d8dadc;
+}
+
+
+.tituloControlSaldosSucursales{
+  width: 300px;
+  background-color: var(--color-fondo);
+  text-align: center;
+  padding: 5px ;
+  border-radius: 6px;
+  font-family: Georgia;
+  font-size: 12px;
+  font-weight: 500;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+
+.circuloControlSaldosSucursales1 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales2 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales3 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales4 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales5 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales6 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales7 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales8 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales9 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales10 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales11 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+}
+.circuloControlSaldosSucursales12 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+}

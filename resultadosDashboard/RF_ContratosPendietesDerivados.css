@@ -1,0 +1,123 @@
+:root{
+	--color-amarillo:#d5c006;
+	--color-rojo: #cb3005;
+	--color-verde:green;
+  --color-fondo: #d8dadc;
+}
+
+/* .tituloContratosPendietesDerivados{
+    font-size: 15px;
+    margin-right: 53.5px; /*distancia entre el titulo del dashboard y los circulos*/
+/* } */
+
+
+.tituloContratosPendientesDerivados{
+    width: 300px;
+    background-color: var(--color-fondo);
+    text-align: center;
+    padding: 5px ;
+    border-radius: 6px;
+    font-family: Georgia;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+
+.circuloContratosPendientesDerivados1 {
+    background-color: var(--color-verde);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    /* border: 3px solid var(--color-fondo); */
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados2 {
+    background-color: var(--color-verde);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    /* border: 3px solid var(--color-fondo); */
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados3 {
+    background-color: var(--color-verde);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    /* border: 3px solid var(--color-fondo); */
+    margin-right: 30px;
+  }
+.circuloContratosPendientesDerivados4 {
+    background-color: var(--color-verde);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    /* border: 3px solid var(--color-fondo); */
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados5 {
+    background-color: var(--color-verde);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    /* border: 3px solid var(--color-fondo); */
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados6 {
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 3px solid var(--color-fondo);
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados7 {
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 3px solid var(--color-fondo);
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados8 {
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 3px solid var(--color-fondo);
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados9 {
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 3px solid var(--color-fondo);
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados10 {
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 3px solid var(--color-fondo);
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados11 {
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 3px solid var(--color-fondo);
+    margin-right: 30px;
+}
+.circuloContratosPendientesDerivados12 {
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 3px solid var(--color-fondo);
+    margin-right: 30px;
+}

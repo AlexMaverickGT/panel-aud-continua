@@ -1,0 +1,135 @@
+:root{
+	--color-amarillo:#d5c006;
+	--color-rojo: #cb3005;
+	--color-verde:green;
+  --color-fondo: #d8dadc;
+}
+
+/* .tituloControlSaldoCajaAGF{
+    font-size: 15px;
+    margin-right: 91px; /*distancia entre el titulo del dashboard y los circulos*/
+/* }  */
+
+.tituloControlSaldoCajaAGF{
+  width: 300px;
+  background-color: var(--color-fondo);
+  text-align: center;
+  padding: 5px ;
+  border-radius: 6px;
+  font-family: Georgia;
+  font-size: 12px;
+  font-weight: 500;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+
+.circuloControlSaldoCajaAGF1{
+  width: 300px;
+  background-color: var(--color-fondo);
+  text-align: center;
+  padding: 5px ;
+  border-radius: 6px;
+  font-family: Georgia;
+  font-size: 12px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.circuloControlSaldoCajaAGF1 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF2 {
+  background-color: var(--color-amarillo);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF3 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF4 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF5 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF6 {
+  background-color: var(--color-verde);
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  /* border: 3px solid var(--color-fondo); */
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF7 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF8 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF9 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF10 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF11 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+  }
+.circuloControlSaldoCajaAGF12 {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid var(--color-fondo);
+  margin-right: 30px;
+}
+
