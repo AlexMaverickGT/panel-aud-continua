@@ -20,7 +20,7 @@
 }
 
 .circuloCumplimientoInmobiliario1 {
-  background-color: --color-verde:green;;
+  background-color: var(--color-verde);
   width: 25px;
   height: 25px;
   border-radius: 50%;
