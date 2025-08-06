@@ -68,11 +68,11 @@
     margin-right: 30px;
 }
 .circuloActiveDirectory7 {
-    background-color: white;
+    background-color: var(--color-verde);
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    border: 3px solid var(--color-fondo);
+    /* border: 3px solid var(--color-fondo); */
     margin-right: 30px;
 }
 .circuloActiveDirectory8 {
@@ -114,4 +114,5 @@
     border-radius: 50%;
     border: 3px solid var(--color-fondo);
     margin-right: 30px;
+
 }
