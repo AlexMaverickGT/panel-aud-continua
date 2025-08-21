@@ -44,10 +44,12 @@ h1 {
 	padding: 10px;
 }
 
-.imagen2{
+/* ESTO HAY QUE DESMARCARLO CUANDO SE SOLUCIONE EL PROBLEMA DE LA PUBLICACION */
+
+/* .imagen2{
 	width: 200px;
 	
-}
+} */
 
 .contenedor-botones {
 	width: 100%; /* ancho de los botones*/
